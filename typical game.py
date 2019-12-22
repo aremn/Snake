@@ -117,3 +117,5 @@ restart_text = c.create_text(WIDTH/2, HEIGHT-HEIGHT/3, font='Arial 30', fill='wh
 c.tag_bind(restart_text, "<Button-1>", clicked)
 start_game()
 root.mainloop()
+
+## https://Snake.aremn.repl.run // Онлайн 
